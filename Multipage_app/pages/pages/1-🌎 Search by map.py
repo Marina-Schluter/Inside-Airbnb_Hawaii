@@ -8,7 +8,7 @@ import seaborn as sns
 import plotly.express as px
 import base64
 
-# -----------------SITE CONFIGURATION----------------#
+# -----------------SITE CONFIGURATION-----------------#
 
 st.set_page_config(
     page_title="AIRBNB-HAWAII",
